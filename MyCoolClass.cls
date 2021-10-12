@@ -6,7 +6,7 @@ public with sharing class MyCoolClass  {
 
     }
 
-    public method2(String pVar1, Integer pNumVar) {
+    public method2(String pVar1, Integer pNumVax) {
 
     }
 
