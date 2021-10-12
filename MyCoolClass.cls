@@ -6,6 +6,9 @@ public with sharing class MyCoolClass  {
 
     }
 
+    public method2(String pVar1) {
+
+    }
 
 
 }
