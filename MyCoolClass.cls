@@ -10,8 +10,5 @@ public with sharing class MyCoolClass  {
 
     }
 
-    public method3(String pVar1) {
-
-    }
 
 }
